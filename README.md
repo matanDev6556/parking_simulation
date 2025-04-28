@@ -81,7 +81,7 @@ Key libraries used:
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/yourusername/parking-app-simulation.git
+   git clone https://github.com/matanDev6556/parking_simulation.git
    ```
 
 2. **Install dependencies**:
@@ -108,16 +108,3 @@ The project includes necessary configuration for both iOS and Android platforms:
 
 - **iOS**: Properly configured Info.plist with permission descriptions for location and notifications
 - **Android**: Updated AndroidManifest.xml with required permissions and metadata
-
-## Future Improvements
-
-While this project demonstrates various mobile development concepts, there are several areas for potential improvement:
-
-- Adding unit and integration tests
-- Implementing more advanced UI with custom animations
-- Adding more features like payment processing
-- Enhancing error handling and offline capabilities
-
-## License
-
-This project is intended for learning purposes and demonstration of Flutter development skills.
