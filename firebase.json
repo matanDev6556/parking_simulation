@@ -1,0 +1,45 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "pomba-22bf9",
+          "appId": "1:879526655151:android:b079996ecd5023817d905a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "pomba-22bf9",
+          "appId": "1:879526655151:ios:0bb2da2be78f57297d905a",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "pomba-22bf9",
+          "appId": "1:879526655151:ios:0bb2da2be78f57297d905a",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "pomba-22bf9",
+          "configurations": {
+            "android": "1:879526655151:android:b079996ecd5023817d905a",
+            "ios": "1:879526655151:ios:0bb2da2be78f57297d905a",
+            "macos": "1:879526655151:ios:0bb2da2be78f57297d905a",
+            "web": "1:879526655151:web:b0ed39e13c6d08647d905a",
+            "windows": "1:879526655151:web:750003780e410d167d905a"
+          }
+        }
+      }
+    }
+  }
+}
